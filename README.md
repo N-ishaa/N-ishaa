@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/736x/22/bc/8e/22bc8ebef610eb881071e1a7007a7a80.jpg" alt="Banner">
+<img align="center" src="https://i.pinimg.com/736x/22/bc/8e/22bc8ebef610eb881071e1a7007a7a80.jpg" alt="Banner" width="600">
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
