@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/736x/9c/d6/30/9cd63003837f1d2274e09e76d8961362.jpg" alt="Banner" width="900">
+<img align="center" src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1742741900~exp=1742745500~hmac=8f6122ce28664ac6f86f9c8ea1c9e6d237de7025299be46856631aaf3c57c959&w=1380" alt="Banner">
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
