@@ -1,11 +1,11 @@
-<img align="center" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Banner">
+<img align="center" src="https://i.pinimg.com/736x/31/ff/78/31ff78cb59ba13f5c6c32ac946ef781b.jpg" alt="Banner">
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721174400&semt=ais_user" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-ishaa&label=Profile%20views&color=0e75b6&style=flat" alt="n-ishaa" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/31/ff/78/31ff78cb59ba13f5c6c32ac946ef781b.jpg">
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **Web**
 
@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nisha." target="blank"><img align="center" src="https://i.pinimg.com/736x/31/ff/78/31ff78cb59ba13f5c6c32ac946ef781b.jpg" alt="nisha." height="30" width="40" /></a>
-<a href="https://instagram.com/nishaathakurrrr" target="blank"><img align="center" src="https://i.pinimg.com/736x/31/ff/78/31ff78cb59ba13f5c6c32ac946ef781b.jpg" alt="nishaathakurrrr" height="30" width="40" /></a>
+<a href="https://twitter.com/nishathakurrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishathakurrrr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nisha." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha." height="30" width="40" /></a>
+<a href="https://instagram.com/nishaathakurrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishaathakurrrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-ishaa&show_icons=true&locale=en" alt="n-ishaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-ishaa&" alt="n-ishaa" /></p>
+
