@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-ishaa&label=Profile%20views&color=0e75b6&style=flat" alt="n-ishaa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/31/ff/78/31ff78cb59ba13f5c6c32ac946ef781b.jpg">
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Web**
 
